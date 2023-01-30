@@ -24,6 +24,8 @@ JMusicBot ---
   
   
   
+Drag your .jar , and config.txt file onto the VPS files.
+
   ### commands:
 To install the OpenJDK JRE, we run:
 
