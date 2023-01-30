@@ -27,6 +27,7 @@ JMusicBot ---
 Drag your .jar , and config.txt file onto the VPS files.
 
   ### commands:
+https://ubuntu.com/tutorials/install-jre#1-overview
 To install the OpenJDK JRE, we run:
 
 'sudo apt install default-jre'
