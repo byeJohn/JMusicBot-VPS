@@ -25,6 +25,22 @@ JMusicBot ---
   
   
   ### commands:
+To install the OpenJDK JRE, we run:
+
+'sudo apt install default-jre'
+
+- y
+
+We can check if OpenJDK JRE was properly installed by running:
+
+'java -version'
+
+Run Bot
+
+'nohup java -jar /root/djcat.jar &'
+
+
+
   nohup java -jar /root/bot/xiaobot.jar &
 
   
