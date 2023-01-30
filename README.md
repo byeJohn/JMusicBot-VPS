@@ -21,5 +21,12 @@ JMusicBot ---
   *
   *
   
+  
+  
+  
+  ### commands:
+  nohup java -jar /root/bot/xiaobot.jar &
+
+  
   ### GitHub Student Developer Pack
 
