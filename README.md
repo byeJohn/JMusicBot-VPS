@@ -60,3 +60,5 @@ Run Bot
 - New terminal console
 - New SFTP window
 
+
+If your bot unexpectedly goes offline, type 'nohup java -jar /root/bot/xiaobot.jar' & into the new terminal console.
