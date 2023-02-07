@@ -51,6 +51,12 @@ Run Bot
 
 
 # include later
-copy ipv4, port number = 
 --- download a SSH
+--- Host: ipv4
+--- Port: 22
+--- Username: root
+--- Password:
+-- Log in
+- New terminal console
+- New SFTP window
 
