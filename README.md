@@ -64,3 +64,6 @@ Run Bot
 If your bot unexpectedly goes offline, type 'nohup java -jar /root/bot/xiaobot.jar' & into the new terminal console.
 
 'ps' - view all running processes, kill <id here>  -- end currently running process
+
+'java -jar /root/bot/xiaobot.jar nogui'
+
