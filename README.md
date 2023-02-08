@@ -23,7 +23,7 @@ JMusicBot ---
   
   
   
-  
+  Create a new folder "Bot"
 Drag your .jar , and config.txt file onto the VPS files.
 
   ### commands:
