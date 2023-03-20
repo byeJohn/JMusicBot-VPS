@@ -61,9 +61,9 @@ Run Bot
 - New SFTP window
 
 
-If your bot unexpectedly goes offline, type 'nohup java -jar /root/bot/xiaobot.jar' & into the new terminal console.
+If your bot unexpectedly goes offline, type 'nohup java -jar /root/bot/name.jar' & into the new terminal console.
 
 'ps' - view all running processes, kill <id here>  -- end currently running process
 
-'java -jar /root/bot/xiaobot.jar nogui'
+'java -jar /root/bot/name.jar nogui'
 
