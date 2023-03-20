@@ -44,7 +44,7 @@ Run Bot
 
 
 
-  nohup java -jar /root/bot/xiaobot.jar &
+  nohup java -jar /root/bot/xiaobot.jar & (allows the bot to run even after exiting)
 
   
   ### GitHub Student Developer Pack
