@@ -29,3 +29,21 @@ https://srcjp.com.br/2022/09/19/resolvendo-erro-de-permission-denied-ubuntu-file
 ```nohup java -jar /home/MusicBot/xiaobot.jar --config /home/MusicBot/config.txt nogui &```
 
 ssh -i keylocation username@ipADDRESS
+
+
+STEP 1:
+Setup Oracle Cloud
+Create an instance with information from: https://steamcommunity.com/sharedfiles/filedetails/?id=3001321532
+
+
+STEP 2: Connect to instance.
+to do this open up your command prompt (cmd)
+cd towards the folder your.key is stored. 
+type in this command: ssh ubuntu@000.000.00 -i ssh-key-2024-04-01.key (with your username, ip, key name.)
+type 'yes'
+you should be connected.
+
+STEP3:
+Type 'sudo apt update && sudo apt upgrade -y' and press Enter to update and upgrade your virtual machine's packages.
+Type 'sudo apt install default-jre'
+type 'java-version' to verify you've sucessfully installed java
