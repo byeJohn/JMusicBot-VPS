@@ -20,6 +20,8 @@ Solutions: https://github.com/jagrosh/MusicBot/issues/159
 
 2. Could not transfer files from desktop to server
 Solutions: sudo chown -R -v ubuntu /home/
+https://www.youtube.com/watch?v=uLqLlONXvfc
+https://srcjp.com.br/2022/09/19/resolvendo-erro-de-permission-denied-ubuntu-filezilla-oracle-cloud-free-tier-linuxgsm/
 
 
 
