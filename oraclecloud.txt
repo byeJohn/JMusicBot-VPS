@@ -1,0 +1,29 @@
+Another way to host the JMusicBot is through Oracle Cloud's free tier!
+
+Required Software/Sites:
+https://www.oracle.com/cloud/free/
+https://github.com/jagrosh/MusicBot/releases
+https://filezilla-project.org/
+https://www.putty.org/ (puttygen)
+https://discord.com/developers/applications
+
+Video References:
+https://www.youtube.com/watch?v=wjcTa4cpnJM -- How to access and upload files on oracle cloud server
+https://www.youtube.com/watch?v=k0fV3VuH2cU&t=54s -- Connect Oracle Cloud Instance with Putty?
+
+Text Reference: 
+https://steamcommunity.com/sharedfiles/filedetails/?id=3001321532
+
+Issues:
+1. Program did not read the preset settings (config.txt)
+Solutions: https://github.com/jagrosh/MusicBot/issues/159
+
+2. Could not transfer files from desktop to server
+Solutions: sudo chown -R -v ubuntu /home/
+
+
+
+--
+```nohup java -jar /home/MusicBot/xiaobot.jar --config /home/MusicBot/config.txt nogui &```
+
+ssh -i keylocation username@ipADDRESS
