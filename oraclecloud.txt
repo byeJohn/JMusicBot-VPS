@@ -47,3 +47,6 @@ STEP3:
 Type 'sudo apt update && sudo apt upgrade -y' and press Enter to update and upgrade your virtual machine's packages.
 Type 'sudo apt install default-jre'
 type 'java-version' to verify you've sucessfully installed java
+
+STEP4:
+use Puttygen to generate a .ppk file from your .key file
